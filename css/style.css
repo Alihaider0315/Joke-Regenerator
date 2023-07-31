@@ -8,7 +8,9 @@ body {
     background-color: black;
     font-family: 'Ubuntu', sans-serif;
 }
-
+h3{
+    text-align: center;
+}
 .wrapper {
     width: 80vmin;
     padding: 40px 50px;
